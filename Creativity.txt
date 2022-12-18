@@ -1,0 +1,9 @@
+- Implicit intent to peduli lindungi's website
+- Shared preference to store username that logged in
+- Using cards to display history and checkout fragment
+- Using scroll view on every page that might have long contents
+- Edittext for inserting username, password, login
+- Spinner for selecting places/location
+- Recycler view to display history
+- Alert Dialog to show if something is not 
+- 2 Floating Action Button one for logout and one to open peduli lindungi's web
